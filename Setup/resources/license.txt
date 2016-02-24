@@ -1,0 +1,10 @@
+By installing and using this software you agree that Geoff Granum bears no liability for anything beyond the price you paid for this product.
+None, nada, zip, zero.
+In the event that this program formats your hard drive, scares your children and/or disturbs your pets you will not hold Geoff Granum liable, nor will you pursue damages beyond the stated price of this software (which was FREE).
+
+You also agree, under penalty of law, to make no attempt to decompile or otherwise view and/or modify the source code of this software. Nor will you distribute, mirror, or otherwise transfer this software via means not expressly approved by Geoff Granum. If you want your friends to have this software send them to http://www.lookingglasssoftware.com/random/MatScript so they can download it. This lets me know the level of interest in the code, which decides the amount of time I spend on improvements.
+
+Thank you,
+Geoff Granum
+geoff.granum@LookingGlassSoftware.com
+

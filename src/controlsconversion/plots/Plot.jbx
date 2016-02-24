@@ -1,0 +1,18 @@
+[PropertyInfo]
+lineColor,String,false,false, , ,true,<default>
+lineColorCounter,int,false,false, , ,false,<default>
+lineStyle,String,false,false, , ,true,<default>
+lineStyleCounter,int,false,false, , ,false,<default>
+title,String,false,false, , ,false,<default>
+xAxis,String[],false,false, , ,false,<default>
+xAxis2,String[],false,false, , ,false,<default>
+xLabel,String,false,false, , ,false,<default>
+yAxis,String[],false,false, , ,false,<default>
+yAxis2,String[],false,false, , ,false,<default>
+yLabel,String,false,false, , ,false,<default>
+yLabel2,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

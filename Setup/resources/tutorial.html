@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<title>Matlab Script Generation Tutorial</title>
+</head>
+
+<body bgcolor="#ffffff">
+<center><h1>Matlab Script Generation Tutorial</h1></center>
+<center><h3>How to create a plot set and export to a matlab script</h3></center>
+
+<p>
+This is a walk through for reading in a group of files, creating a set of plots, and exporting those plots to a matlab script. It is rather important that you have matlab installed, as all this program does is create a script file -- Matlab is required to actually run the script to generate the plots.
+</p>
+
+<center><h3>The files</h3></center>
+<p> In order for this program to work, you must have all of your data in a text file, or multiple text files. These files will be in the format<br>
+<i>column headers</i><br>
+<i>[column data....]</i><br>
+<ol><li>
+All the column headers must be on the same line. </li>
+<li>Blank lines are allowed before and after the column headers.</li>
+<li>Each column header must be seperated by three or more spaces, or a tab.</li>
+<li>Each row of data must end with a semi-colen (';')</li>
+</ol>
+<br>
+<h3> Example</h3>
+<HR ALIGN="center" WIDTH="100%">
+<PRE>
+ Sample   Time     Commanded Pos   Encoder 1 Pos   Encoder 3 Pos   Control Effort
+
+[    0    0.000               0             452             976         -0.3907;
+
+     1    0.004               0             452             970         -0.3816;
+
+     2    0.009               0             452             963         -0.3883;
+
+     3    0.013               0             451             955         -0.3877;
+
+     4    0.018               0             450             946         -0.3681;
+
+     5    0.022               0             450             935         -0.3803;
+
+     6    0.027               0             449             924         -0.3736;]
+</PRE>
+<HR ALIGN="center" WIDTH="100%">
+<p>
+It is best that you keep all of the data files for one set in a single directory. One, it is easier for you to keep track of, and two, there is only one output directory: when you parse the files ('run' from them menu) all the output files which will be used by matlab are dumped into the same output direcotry.
+</p>
+
+<h3>Running the program</h3>
+<p>It is assumed that you have already installed the software. If not, you may want to do that now. Might help with this section.</p>
+<p>In order to run this program, you MUST have a JRE installed. Hopefully you have one which is recent enough for you to simply double click on the icon which was (optionally) placed on your desktop. If you don't then I recommend visiting <a href="www.java.sun.com">www.java.sun.com</a> and installing the most recent version. The other option would be to run 'cmd' or 'command' depending on your version of windows, cd-ing into the dir which contains the file 'matScriptGen.jar' and typing "java -jar matScriptGen.jar'</p>
+
+
+
+</body>

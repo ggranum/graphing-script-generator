@@ -1,0 +1,13 @@
+[PropertyInfo]
+altYLabel,String,false,false, , ,true,<default>
+menu,JMenuItem,false,false, , ,true,<default>
+plots,ArrayList,false,false, , ,true,<default>
+title,String,false,false, , ,true,<default>
+usesAlternateAxis,boolean,false,false, , ,true,<default>
+xLabel,String,false,false, , ,true,<default>
+YLabel,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

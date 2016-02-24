@@ -1,0 +1,14 @@
+[PropertyInfo]
+allIndices,Hashtable,false,false, , ,false,<default>
+changedSinceSave,boolean,false,false, , ,false,<default>
+inputFiles,ArrayList,false,false, , ,false,<default>
+main,FrameMain,false,false, , ,false,<default>
+outputFileNames,ArrayList,false,false, , ,false,<default>
+outputFiles,ArrayList,false,false, , ,false,<default>
+plots,PlotSet[],false,false, , ,true,<default>
+saveFile,File,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

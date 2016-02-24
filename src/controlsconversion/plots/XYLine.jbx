@@ -1,0 +1,14 @@
+[PropertyInfo]
+alternateYAxis,boolean,false,false, , ,true,<default>
+file,String,false,false, , ,true,<default>
+legend,String,false,false, , ,true,<default>
+lineColor,String,false,false, , ,true,<default>
+lineMarker,String,false,false, , ,true,<default>
+lineStyle,String,false,false, , ,true,<default>
+xAxis,String,false,false, , ,true,<default>
+YAxis,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

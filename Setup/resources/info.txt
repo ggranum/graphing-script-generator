@@ -1,0 +1,1 @@
+You must have a Java Runtime Environment (JRE) installed to run this software. If you can't get this software to run after installation, lack of a JRE, or an outdated JRE could be the reason. Go to http://www.java.sun.com, download and install the most recent JRE, and try running this program again.
